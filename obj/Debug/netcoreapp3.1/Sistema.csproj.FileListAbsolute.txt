@@ -1,0 +1,13 @@
+/home/glauber/Documentos/Unip_ADS_Noite_3sem/PIM III/Sistema/bin/Debug/netcoreapp3.1/Sistema
+/home/glauber/Documentos/Unip_ADS_Noite_3sem/PIM III/Sistema/bin/Debug/netcoreapp3.1/Sistema.deps.json
+/home/glauber/Documentos/Unip_ADS_Noite_3sem/PIM III/Sistema/bin/Debug/netcoreapp3.1/Sistema.runtimeconfig.json
+/home/glauber/Documentos/Unip_ADS_Noite_3sem/PIM III/Sistema/bin/Debug/netcoreapp3.1/Sistema.runtimeconfig.dev.json
+/home/glauber/Documentos/Unip_ADS_Noite_3sem/PIM III/Sistema/bin/Debug/netcoreapp3.1/Sistema.dll
+/home/glauber/Documentos/Unip_ADS_Noite_3sem/PIM III/Sistema/bin/Debug/netcoreapp3.1/Sistema.pdb
+/home/glauber/Documentos/Unip_ADS_Noite_3sem/PIM III/Sistema/obj/Debug/netcoreapp3.1/Sistema.csprojAssemblyReference.cache
+/home/glauber/Documentos/Unip_ADS_Noite_3sem/PIM III/Sistema/obj/Debug/netcoreapp3.1/Sistema.csproj.CoreCompileInputs.cache
+/home/glauber/Documentos/Unip_ADS_Noite_3sem/PIM III/Sistema/obj/Debug/netcoreapp3.1/Sistema.AssemblyInfoInputs.cache
+/home/glauber/Documentos/Unip_ADS_Noite_3sem/PIM III/Sistema/obj/Debug/netcoreapp3.1/Sistema.AssemblyInfo.cs
+/home/glauber/Documentos/Unip_ADS_Noite_3sem/PIM III/Sistema/obj/Debug/netcoreapp3.1/Sistema.dll
+/home/glauber/Documentos/Unip_ADS_Noite_3sem/PIM III/Sistema/obj/Debug/netcoreapp3.1/Sistema.pdb
+/home/glauber/Documentos/Unip_ADS_Noite_3sem/PIM III/Sistema/obj/Debug/netcoreapp3.1/Sistema.genruntimeconfig.cache
